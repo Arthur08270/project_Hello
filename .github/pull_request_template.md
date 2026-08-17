@@ -1,34 +1,79 @@
+# Pull Request
+
 ## 📌 Descrição
-<!-- Resumo curto: O que foi feito e por que essa alteração foi necessária? -->
-- 
 
-## 🔗 Tarefa Relacionada
-<!-- Link do card no Jira, Trello ou issue do GitHub -->
-- Fixes # / Ref #
+<!-- Explique de forma objetiva o que foi desenvolvido e por quê. -->
 
-## 🛠️ Mudanças Realizadas
-<!-- Liste em tópicos as principais alterações técnicas -->
-- [ ] 
-- [ ] 
+## **O que foi feito?**
 
-## 🧪 Como Testar
-<!-- Passo a passo simples para o revisor validar a funcionalidade -->
-1. 
-2. 
-3. 
+*
+*
 
-## 📸 Screenshots / GIFs (se aplicável)
-<!-- Adicione imagens do antes/depois ou um gif demonstrando a alteração funcionando -->
-| Antes | Depois |
-| --- | --- |
-|  |  |
+## **Por que essa alteração foi necessária?**
 
-## 🚨 Pontos de Atenção & Dúvidas (Opcional)
-<!-- Teve alguma dúvida técnica ou tomou uma decisão que gostaria da opinião dos seniores? Liste aqui. -->
-- 
+## 🎯 Tipo de alteração
 
-## ✅ Checklist do Desenvolvedor
-- [ ] O código segue os padrões do projeto.
-- [ ] Testei as alterações localmente.
-- [ ] Não deixei códigos comentados ou `print`/`console.log` desnecessários.
-- [ ] Documentação ou comentários foram atualizados (se necessário).
+<!-- Marque com "x" o que se aplica. -->
+
+* [ ] Nova funcionalidade
+* [ ] Correção de bug
+* [ ] Refatoração
+* [ ] Melhoria de código
+* [ ] Alteração de interface
+* [ ] Documentação
+* [ ] Testes
+* [ ] Outro:
+
+## 🛠️ Solução implementada
+
+<!-- Explique brevemente como a solução foi feita. -->
+
+*
+*
+*
+
+## 🧪 Testes realizados
+
+<!-- Informe como você validou a alteração. -->
+
+* [ ] Testes unitários
+* [ ] Testes de integração
+* [ ] Teste manual
+* [ ] Não se aplica
+
+## **Como foi testado?**
+
+## 📸 Evidências
+
+<!-- Adicione prints, vídeos ou outras evidências quando necessário. -->
+
+<!-- Cole aqui as imagens ou vídeos -->
+
+## ⚠️ Pontos de atenção
+
+<!-- Informe algo que o revisor deve observar, limitações ou possíveis impactos. -->
+
+*
+
+## 🔗 Referências
+
+<!-- Link da tarefa, card, issue, documentação etc. -->
+
+* Issue/Tarefa: #
+* Documentação:
+
+## ✅ Checklist
+
+* [ ] Código revisado por mim
+* [ ] Testes realizados
+* [ ] Não deixei código desnecessário/debug
+* [ ] Mantive o padrão do projeto
+* [ ] Atualizei a documentação, quando necessário
+* [ ] Verifiquei possíveis impactos em outras funcionalidades
+* [ ] PR está pronto para revisão
+
+## 💬 Observações
+
+<!-- Informações adicionais para o revisor. -->
+
+*
